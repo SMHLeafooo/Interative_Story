@@ -1,0 +1,15 @@
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\bin\Debug\net6.0\Interactive_Story.exe
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\bin\Debug\net6.0\Interactive_Story.deps.json
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\bin\Debug\net6.0\Interactive_Story.runtimeconfig.json
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\bin\Debug\net6.0\Interactive_Story.dll
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\bin\Debug\net6.0\Interactive_Story.pdb
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.csproj.AssemblyReference.cache
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.AssemblyInfoInputs.cache
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.AssemblyInfo.cs
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.csproj.CoreCompileInputs.cache
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.dll
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\refint\Interactive_Story.dll
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.pdb
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\Interactive_Story.genruntimeconfig.cache
+C:\Users\dhani.somaskandan\Interative_Story\Interactive_Story\Interactive_Story\obj\Debug\net6.0\ref\Interactive_Story.dll
